@@ -1,0 +1,10 @@
+[package]
+name = "mugen"
+edition = "2024.beta"
+license = "MIT"
+authors = ["Studio Mirai, LLC (dev@sm.xyz)"]
+
+[dependencies]
+
+[addresses]
+mugen = "0x0"
